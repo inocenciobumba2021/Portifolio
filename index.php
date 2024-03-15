@@ -128,7 +128,7 @@ include 'conexao.php';
                         <div class="logo2" style="margin-top: -50px;">
                             <img src="img/img12.png" alt="">
                             <img src="img/img10.png" alt="">
-                            <img src="img/img15.png" alt="">
+                            <img src="img/img24.png" alt="">
 
                         </div>
                     </div>
@@ -174,11 +174,6 @@ include 'conexao.php';
                             não se trata apenas de entregar um produto funcional, mas sim de entender profundamente as
                             necessidades e
                             metas do cliente para criar soluções sob medida que superam as expectativas.</p>
-                        <!-- <div class="btn-social">
-                            <a href=""><button><i class="bi bi-facebook"></i></button></a>
-                            <a href=""><button><i class="bi bi-whatsapp"></i></button></a>
-                            <a href=""><button><i class="bi bi-instagram"></i></button></a>
-                        </div> -->
                 <div class="sub">
                     <form method="post">
                         <h2 style="text-align:center; font-size:18px">SUBSCREVA</h2>
@@ -222,14 +217,14 @@ include 'conexao.php';
                             Gestor De Tarefas
                         </div>
                     </div>
-                    <div class="img-port" style="background-image: url(img/img20.png);">
+                    <div class="img-port" style="background-image: url(img/img25.png);">
                         <div class="overlay">
-                            Meu Portifolio
+                            Loja virtual vendas online
                         </div>
                     </div>
-                    <div class="img-port" style="background-image: url(img/img21.png);">
+                    <div class="img-port" style="background-image: url(img/img23.png);">
                         <div class="overlay">
-                            WebCulinaria
+                            Turismo & Cultura
                         </div>
                     </div>
                 </div>
